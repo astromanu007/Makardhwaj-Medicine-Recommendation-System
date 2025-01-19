@@ -68,23 +68,22 @@ The app will be available at [http://127.0.0.1:5000](http://127.0.0.1:5000). �
 ## 🖼️ Screenshots
 
 ### Home Page 🌟
-![Home Page](./mnt/data/main.png)
+![Home Page](images/main.png)
 
 ### About Section 📖
-![About](./mnt/data/ABOUT.png)
+![About](images/ABOUT.png)
 
 ### Blog Page ✍️
-![Blog](./mnt/data/BLOG.png)
+![Blog](images/BLOG.png)
 
 ### Contact Section 📧
-![Contact](./mnt/data/CONTACT.png)
+![Contact](images/CONTACT.png)
 
 ### Developer Info 👨‍💻
-![Developer](./mnt/data/MANISH_DEV.png)
+![Developer](images/MANISH_DEV.png)
 
 ### Recommendations Page 💡
-![Recommendations](./mnt/data/Recommendations.png)
-
+![Recommendations](images/Recommendations.png)
 ---
 
 ## 🛠️ How It Works
