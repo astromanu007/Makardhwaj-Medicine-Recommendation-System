@@ -102,7 +102,7 @@ Developed with ❤️ by **Manish Dhatrak**.
 
 - **Email** 📧: [manishdhatrak1121@gmail.com](mailto:manishdhatrak1121@gmail.com)
 - **GitHub**: [GitHub Repository](https://github.com/astromanu007/Makardhwaj-Medicine-Recommendation-System)
-- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/yourusername)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/manish-dhatrak-b759171aa)
 
 ---
 
